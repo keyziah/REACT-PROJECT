@@ -1,3 +1,11 @@
+Members:
+Keziah R. Taganait
+Danboy Godalle
+Jerica Olaviaga
+Sam Jazo
+Sarah Garais
+
+
 ## Getting Started
 
 First, install the dependencies using this command:
